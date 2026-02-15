@@ -43,7 +43,7 @@ const API_SITES = {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
         detail: 'http://ffzy5.tv',
-    },
+    }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
