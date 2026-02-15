@@ -22,11 +22,28 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: true
-    }
+   dyttzy: {
+        api: 'https://caiji.dyttzyapi.com',
+        name: '电影天堂资源',
+        detail: 'https://caiji.dyttzyapi.com',
+    },
+    ruyi: {
+        api: 'https://cj.rycjapi.com',
+        name: '如意资源',
+    },
+    bfzy: {
+        api: 'https://bfzyapi.com',
+        name: '暴风资源',
+    },
+    tyyszy: {
+        api: 'https://tyyszy.com',
+        name: '天涯资源',
+    },
+    ffzy: {
+        api: 'http://ffzy5.tv',
+        name: '非凡影视',
+        detail: 'http://ffzy5.tv',
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
